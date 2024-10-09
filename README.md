@@ -7,18 +7,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
-
----
-
 ## Overview
 
 **FinDash** offers a clean and minimalistic UI to represent personal financial data visually. It includes card management, transaction history, balance tracking, and an earnings/spending overview. This project is intended for demonstration purposes, focusing on UI/UX design.
