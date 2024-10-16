@@ -8,7 +8,7 @@ import { MdAccountCircle } from "react-icons/md";
 const Header = () => {
   return (
     // main div 
-    <header className='h-80 w-full z-[4px] bg-black rounded-b-[40px] flex justify-between px-20 py-14'>
+    <header className='h-80 lg:h-52 w-full z-[4px] bg-black rounded-b-[40px] flex justify-between px-20 py-14 lg:py-10'>
         <div className='text-white items-center'>
             {/* image  */}
             <div className='flex items-center pointer-events-none select-none'>
