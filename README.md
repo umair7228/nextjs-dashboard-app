@@ -1,6 +1,8 @@
 # nextjs-dashboard-app
 ![dashboard](https://github.com/user-attachments/assets/0c428dd0-6179-4ebc-9fca-28f8c92c11e7)
 
+## [Click for a live version](https://umair-dashboard-app.vercel.app/)
+
 # FinDash - Personal Finance Dashboard
 
 **FinDash** is a sleek and modern static frontend dashboard built with Next.js. It showcases a personal finance management system, allowing users to visualize various credit/debit cards, view transactions, earnings, and spending patterns. This project focuses purely on the frontend design and is not connected to any backend services.
